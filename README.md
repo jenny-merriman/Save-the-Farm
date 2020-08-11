@@ -1,4 +1,4 @@
-# Save-the-Farm
+# Save the Farm
 ## Codecademy - PHP Project
 ### Aim / Project Brief:
 Update existing code to build a working text adventure game in PHP called ‘Save the Farm’
